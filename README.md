@@ -17,7 +17,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,laravel,mysql,express,prisma,vitest,sqlite,vscode,opencv,n8n,pytorch" />
+    <img src="https://skillicons.dev/icons?i=firebase,laravel,mysql,express,prisma,vitest,sqlite,vscode,opencv,pytorch" />
   </a>
 </p>
 <br>
