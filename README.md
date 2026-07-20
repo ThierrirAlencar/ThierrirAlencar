@@ -3,7 +3,7 @@
 <p>
 
 <p align="center" text-align="center" width="100px">
-      A BackEnd NodeJS Developer with skills of CleanCode, Game Development, Machine Learning, Infraestructure and DevOps.  
+   Hey My name is Thierrir Alencar and i'm a fullstack developer, Game Designer and Artificial Inteligence Researcher
 </p>
 
 
@@ -21,7 +21,7 @@
 ### Frameworks and libraries
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express,nestjs,laravel,flask,react,vue,prisma,opencv,pytorch,vitest,jest" />
+    <img src="https://skillicons.dev/icons?i=express,nestjs,laravel,flask,react,vue,prisma,opencv,pytorch,vitest,jest,yolo" />
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 ### OS and IDE
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ubuntu,windows,linux,vscode,azure,git,debian,sublime,eclipse" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows,mint,linux,vscode,git,debian,sublime,eclipse" />
   </a>
 </p>
 
